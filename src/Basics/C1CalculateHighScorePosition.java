@@ -1,6 +1,6 @@
 package Basics;
 
-public class Challenge1 {
+public class C1CalculateHighScorePosition {
     public static void main(String[] args) {
         int position1 = calculateHighScorePosition(1500);
         displayHighScorePosition("James", position1);
