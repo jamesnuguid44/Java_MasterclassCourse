@@ -2,7 +2,7 @@ package CodingExercise;
 
 public class e5DecimalComparator {
     public static void main(String[] args) {
-        //areEqualByThreeDecimalPlaces(345.32123,367.175);
+        areEqualByThreeDecimalPlaces(345.32123,367.175);
     }
 
     public static boolean areEqualByThreeDecimalPlaces(double num1, double num2){
