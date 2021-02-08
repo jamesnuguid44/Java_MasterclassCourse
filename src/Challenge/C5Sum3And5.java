@@ -1,4 +1,4 @@
-package Basics;
+package Challenge;
 
 public class C5Sum3And5 {
     public static void main(String[] args) {

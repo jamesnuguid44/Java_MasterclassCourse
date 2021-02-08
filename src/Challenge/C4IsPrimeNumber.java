@@ -1,4 +1,4 @@
-package Basics;
+package Challenge;
 
 public class C4IsPrimeNumber {
     public static void main(String[] args) {
