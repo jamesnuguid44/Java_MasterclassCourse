@@ -10,12 +10,14 @@ public class C9MinAndMaxInput {
 
         while (true){
             System.out.print("Enter Integer: ");
-            lastInput = scanner.nextInt();
-            if (lastInput < 0){
+            boolean isAnInt = scanner.hasNextInt();
+
+            if (!isAnInt){
                 System.out.println("Minimum Number is: " + minInput);
                 System.out.println("Maximum Number is: " + maxInput);
                 break;
             }
+            lastInput = scanner.nextInt();
 
             if ((minInput == 0) && (maxInput == 0)){
                 maxInput = lastInput;
