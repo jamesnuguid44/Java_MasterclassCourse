@@ -1,4 +1,4 @@
-package CodingExercise;
+package CodingExerciseSection1to5;
 
 import java.util.Scanner;
 

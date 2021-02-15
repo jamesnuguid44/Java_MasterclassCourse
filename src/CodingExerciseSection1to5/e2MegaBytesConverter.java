@@ -1,4 +1,4 @@
-package CodingExercise;
+package CodingExerciseSection1to5;
 
 public class e2MegaBytesConverter {
     public static void main(String[] args) {

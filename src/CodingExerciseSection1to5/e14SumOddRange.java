@@ -1,4 +1,4 @@
-package CodingExercise;
+package CodingExerciseSection1to5;
 
 public class e14SumOddRange {
     public static void main(String[] args) {

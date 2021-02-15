@@ -1,4 +1,4 @@
-package CodingExercise;
+package CodingExerciseSection1to5;
 
 public class e1SpeedConverter {
     public static void main(String[] args) {

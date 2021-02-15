@@ -1,4 +1,4 @@
-package CodingExercise;
+package CodingExerciseSection1to5;
 
 public class e28PaintJob {
     public static void main(String[] args) {
