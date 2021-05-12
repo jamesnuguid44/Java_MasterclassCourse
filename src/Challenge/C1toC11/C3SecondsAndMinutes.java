@@ -1,4 +1,4 @@
-package Challenge;
+package Challenge.C1toC11;
 
 public class C3SecondsAndMinutes {
     public static void main(String[] args) {

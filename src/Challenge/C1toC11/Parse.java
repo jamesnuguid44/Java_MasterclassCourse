@@ -1,4 +1,4 @@
-package Challenge;
+package Challenge.C1toC11;
 
 public class Parse {
     public static void main(String[] args) {

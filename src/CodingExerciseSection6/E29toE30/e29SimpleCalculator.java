@@ -1,4 +1,4 @@
-package CodingExerciseSection6;
+package CodingExerciseSection6.E29toE30;
 
 public class e29SimpleCalculator {
     private double firstNumber;

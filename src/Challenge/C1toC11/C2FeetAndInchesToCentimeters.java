@@ -1,4 +1,4 @@
-package Challenge;
+package Challenge.C1toC11;
 
 public class C2FeetAndInchesToCentimeters {
     public static void main(String[] args) {

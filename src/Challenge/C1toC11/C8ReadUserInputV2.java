@@ -1,4 +1,4 @@
-package Challenge;
+package Challenge.C1toC11;
 import java.util.Scanner;
 
 public class C8ReadUserInputV2 {
